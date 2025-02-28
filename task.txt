@@ -1,15 +1,25 @@
 Task : Korzinka
 
 1. Badriddin, Ahror, Abdulloh - https://github.com/Ahror101/Korzinka
+Vorislik, abstraction, polimorfizm yo'q
 
 2. Zoir, Abduqahhor, Bobur - https://github.com/InomovBoburbek/Karzinka
+Faylga saqlash qismi va menu qismi yo'q
 
 3. Muhammadyusuf, Azizbek, Sardor - https://github.com/ASTRO01-max/class-Karzinka-
+Contributorlar ichida Azizbek va Sardor yo'q, tovar qismi yaxshi emas, file bilan ishlanmagan
+
 
 4. Abdulaziz, Nodir, Zayniddin - https://github.com/abdulaziztaqsir/Taqsir.korzinka.uz/blob/main/main.py
+Tovar jo'natilyapti, lekin tovarlar yo'q
+file bilan ishlash qismi class qilinmagan
+vorislik yo'q
 
 5. Munisa, Shabnam - https://github.com/MunisaSarvarovna/Karzinka/blob/master/main.py
+Yaxshi
 
-6. Asliddin, Hamidullo, Azizxon -
+6. Asliddin, Hamidullo, Azizxon -Yo'q --infinity--
 
 7. Muhammadjon, Salohiddin - https://github.com/Muhammadjon-project/Korzinka
+class to'liq yoritilmagan
+savdo qilish qismi yaxshi yozilmagan
